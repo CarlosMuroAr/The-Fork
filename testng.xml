@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite The Fork" verbose="1">
+<test name="Example">
+    <classes>
+        <class name="tests.personalInformation.TC_0001_VerifyPersonalInformation" />
+    </classes>
+</test>
+</suite>
